@@ -19,9 +19,9 @@ I'm an IT engineer seeking to leverage my automation, documentation and cyber se
 
 ### Biography
 
-I specialize in Infrastructure, Cloud, and Security, with proficiency in a range of key platforms and tools. My expertise spans AWS and Azure cloud environments, along with proficiency in managing Redhat Enterprise Linux and Windows Server infrastructures. I have a solid grasp of security solutions, including Crowdstrike, Proofpoint TAP/TRAP, Extrahop, and Zerofox, bolstered by a deep understanding of vulnerability management utilizing Tenable.sc and Tenable.io. Additionally, I'm skilled in log management and analysis using Devo, ensuring robust security and operational efficiency. I've even dabbled in Ansible automation during my tenure as a infrastructure engineer where I automated the Linux server patching process. 
+I specialize in Infrastructure, Cloud, and Security, with proficiency in a range of key platforms and tools. My expertise spans AWS and Azure cloud environments, along with proficiency in managing Redhat Enterprise Linux and Windows Server infrastructures. I have a solid grasp of security solutions, including Crowdstrike, Proofpoint TAP/TRAP, Extrahop, and Zerofox, bolstered by a deep understanding of vulnerability management utilizing Tenable.sc and Tenable.io. Additionally, I'm skilled in log management and analysis using Devo, ensuring robust security and operational efficiency. I've utilizied Ansible automation during my tenure as a infrastructure engineer and currently leverage it to quickly analyze and  remediate security issues. 
 
-In my current role the documentation of repeatable cyber security procedures is critical during an incident response. 
+In my current role the documentation of repeatable cyber security procedures is critical during an incident response and very useful for day-to-day security operations tasks. 
 Along with digital forensics, dark web monitoring and vulnerability management, I enjoy collaborating with others to translate processes into user friendly documents. 
 
 One of my most recent certificate journeys led me to obtaining my AWS Associate Architect where I not only adding a Cloud skill but I also learned the value of engaging learning content to help pass the exam. 
