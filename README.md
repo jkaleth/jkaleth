@@ -28,7 +28,7 @@ One of my most recent certificate journeys led me to obtaining my AWS Associate 
 
 Outside of my job and I have an obsessive interest in photography and am also passionate about audio and video production engineering. 
 
-As a Tech veteran I can appreacite how fast technology evolves and I keep it fresh by taking action to learn new things. 
+As a tech veteran I can appreciate how fast technology evolves and I keep it fresh by taking action to learn new things. 
 
 Thanks for visiting! 
 
