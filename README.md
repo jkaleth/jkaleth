@@ -38,7 +38,7 @@ Thanks for visiting!
 
 [Resume - Markdown](./Resume-Jeff-Kaleth.md)
 
-[Resume - PDF](./Resume-Jeff-Kaleth.pdf)
+[Resume - PDF](https://github.com/jkaleth/jkaleth/blob/main/Resume-Jeff-Kaleth-113023.pdf)
 
 ### Social Media
 
