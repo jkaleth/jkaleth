@@ -40,8 +40,6 @@ Thanks for visiting!
 
 [Resume - PDF](./Resume-Jeff-Kaleth.pdf)
 
-[Resume - HTML](./Resume-Jeff-Kaleth.html)
-
 ### Social Media
 
 [LinkedIn](https://www.linkedin.com/in/jeffkaleth/)
