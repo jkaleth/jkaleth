@@ -4,7 +4,7 @@
 
 ### Summary
 
-I'm an IT engineer leveraging my automation, documentation, and cyber security skill sets proudly at Ulta Beauty!
+I'm an IT engineer leveraging automation, documentation, and cyber security skill sets proudly at Ulta Beauty!
 
 **Top Skills:**
 
